@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.org/asliakalin/hw-tdd-rspec.svg?branch=master)](https://www.travis-ci.org/asliakalin/hw-tdd-rspec)
+
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
